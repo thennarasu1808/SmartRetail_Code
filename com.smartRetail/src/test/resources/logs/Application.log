@@ -1,0 +1,12 @@
+29/03/2020 20:38:43 devpinoyLogger config property file loaded !!!
+29/03/2020 20:38:43 devpinoyLogger OR property file loaded !!!
+29/03/2020 20:38:47 devpinoyLogger chrome browser launched !!!
+29/03/2020 20:38:58 devpinoyLogger Navigated to: http://smartretail2:8088/ipgui/
+29/03/2020 20:38:59 devpinoyLogger Inside Login Test!!
+29/03/2020 20:38:59 devpinoyLogger User name entered!!
+29/03/2020 20:39:00 devpinoyLogger Password entered!!
+29/03/2020 20:39:00 devpinoyLogger Environment down arrow clicked!!
+29/03/2020 20:39:04 devpinoyLogger Environment Selected is :  iLava's IPTSFILN: v20.1 (aka v19 Minor GA#1) QA MBSL=N MC=Y Common=E 2D using IPxxxxx191
+29/03/2020 20:39:04 devpinoyLogger Login button clicked!!
+29/03/2020 20:39:04 devpinoyLogger Login successful!!
+29/03/2020 20:39:23 devpinoyLogger Purchasing tab is clicked
